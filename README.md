@@ -1,3 +1,4 @@
+![Logo](https://github.com/juanrave/Sistema-de-recomendacion-clientes-con-potencial-comercial/blob/main/doc/images/logo.png)
 # Sistema-de-recomendacion-clientes-con-potencial-comercial
 Sistema de Recomendación de Noticias sobre Clientes con Potencial Comercial
 
@@ -74,6 +75,8 @@ news_url_absolute: url de la noticia encontrada.
 news_init_date: Fecha mínima del intervalo de tiempo al que pertenece la noticia.
 
 news_final_date: Fecha máxima del intervalo de tiempo al que pertenece la noticia.
+
+![Histograma de numero de noticias por cliente](https://github.com/juanrave/Sistema-de-recomendacion-clientes-con-potencial-comercial/blob/main/doc/images/histograma_numero_noticias_por_cliente.png)https://github.com/juanrave/Sistema-de-recomendacion-clientes-con-potencial-comercial/blob/main/doc/images/histograma_numero_noticias_por_cliente.png)
 
 
 
