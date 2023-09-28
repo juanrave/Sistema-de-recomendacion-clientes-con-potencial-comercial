@@ -1,1 +1,3 @@
-
+Dataton_Description.ipynb: notebook para la descripcion de los datos.
+ProyectoANS.ipynb: notebook con la construccion de los 3 algoritmos de recomendacion.
+extra_stopwords.csv: archivo con stop words adicionales.
